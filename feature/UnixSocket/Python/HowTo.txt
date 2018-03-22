@@ -1,9 +1,10 @@
-Run server.py
+1. Run server.py
     python server.py
 
-Run in another terminal client.py
+2. Run in another terminal client.py
     python client.py
 
+3. Send message from client to server
 
 Links:
 http://lecturesnet.readthedocs.io/net/low-level/ipc/socket/unix.html
